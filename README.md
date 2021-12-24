@@ -3,7 +3,6 @@ His desktop just for fun
 
 Install a simple and very lively desktop in termux 
 
-![intro](./fotos/desk.png)
 
 > Current version of this project : v2.1.3
 
@@ -49,15 +48,7 @@ https://github.com/Yisus7u7/termux-desktop-xfce
 
 The objective of this project is aimed at cell phones with little space or low resources 
 
-## screenshots
 
-![escritorio](./fotos/neofetch-and-menu.png)
-
-![escritorio](./fotos/pcmanfm-qt_and_qterminal.png)
-
-![escritorio](./fotos/text-editor.png)
-
-![escritorio](./fotos/wiki-and-about.png)
 
 # installation 
 
@@ -102,4 +93,8 @@ You can help the project by correcting bugs and adding improvements to the proje
 extraction requests will be reviewed and if they are correct they will be accepted 
 
 Don't forget to share and leave your 🌟 
+
+## Credits
+
+https://github.com/AbhinavMukundhan -   AbhinavMukundhan
 
