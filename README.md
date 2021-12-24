@@ -42,11 +42,7 @@ And edit the geometry parameters
 
 - This desktop is super lightweight and optimized
 
-Since this repo is in beta, If you want something nicer you can try this :
 
-https://github.com/Yisus7u7/termux-desktop-xfce
-
-The objective of this project is aimed at cell phones with little space or low resources 
 
 
 
